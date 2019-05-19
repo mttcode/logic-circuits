@@ -81,8 +81,6 @@ protected:
 };
 
 /////////////////////////////////////////////////////////////////////////////
-
 //{{AFX_INSERT_LOCATION}}
-// Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
 #endif // !defined(AFX_LOGOBVODYDOC_H__8B0179DA_FBB9_4C93_BA6E_9BD9E29543E6__INCLUDED_)
