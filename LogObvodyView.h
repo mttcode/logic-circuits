@@ -150,8 +150,6 @@ inline CLogObvodyDoc* CLogObvodyView::GetDocument()
 #endif
 
 /////////////////////////////////////////////////////////////////////////////
-
 //{{AFX_INSERT_LOCATION}}
-// Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
 #endif // !defined(AFX_LOGOBVODYVIEW_H__D5C610D5_931B_437B_8105_741856945EA1__INCLUDED_)
