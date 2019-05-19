@@ -43,7 +43,6 @@ protected:
 };
 
 /////////////////////////////////////////////////////////////////////////////
-
 //{{AFX_INSERT_LOCATION}}
 
 #endif // !defined(AFX_LISTCTRLWITHCOMBOBOX_H__FD0F6EFC_91A0_41CE_9B39_A32F6A164DF8__INCLUDED_)
