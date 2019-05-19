@@ -28,8 +28,6 @@ public:
 	int m_FontWeight[FONT_COUNT];
 	CFont m_Fonts[FONT_COUNT];
 
-	//!!! ak tu nieco pridas -> zmen pocet stran na tlac (OnPreparePrinting)
-	//co sa ma zobrazovat
 	//BOOL m_ViewHelp;
 	BOOL m_ViewTableFunctionValues;
 	BOOL m_ViewCalculateSteps;
